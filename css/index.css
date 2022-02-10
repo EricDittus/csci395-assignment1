@@ -1,0 +1,23 @@
+body{
+    font-family: Times, Times New Roman, serif;
+    background-color: rgb(208, 255, 246);
+    text-align: center;
+}
+
+a{
+    text-decloration: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.link{
+    margin: 20px;
+}
