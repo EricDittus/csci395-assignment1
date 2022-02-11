@@ -1,13 +1,13 @@
 body {
     font-family: Gill Sans, sans-serif;
-    background-color: black;
+    background-color: rgb(102, 0, 245);
     text-align: center;
 }
 
-a {
+p {
     text-decoration: none;
-    color: green;
-    background-color: orange;
+    color: rgb(249, 255, 249);
+    background-color: rgb(0, 0, 0);
     padding: 10px;
 }
 
