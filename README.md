@@ -4,3 +4,5 @@ Eric Dittus
 Christopher Sostre
 Diana Luna
 Perla Escano Estrella
+
+https://ericdittus.github.io/csci395-assignment1/
