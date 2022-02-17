@@ -1,5 +1,5 @@
 # csci395-assignment1
-Group members:
+Group members:\
 Eric Dittus @ericdittus\
 Christopher Sostre
 Diana Luna @dianaluna01\ 
