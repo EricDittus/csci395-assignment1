@@ -1,13 +1,13 @@
 body {
     font-family: Gill Sans, sans-serif;
-    background-color: rgb(102, 0, 245);
+    background-color: cornflowerblue;
     text-align: center;
 }
 
 p {
     text-decoration: none;
-    color: rgb(249, 255, 249);
-    background-color: rgb(0, 0, 0);
+    color: white;
+    background-color: black;
     padding: 10px;
 }
 
