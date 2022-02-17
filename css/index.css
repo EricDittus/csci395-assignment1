@@ -1,12 +1,12 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: rgb(102, 0, 245);
+  background-color: cornflowerblue;
   text-align: center;
 }
 
 p {
   text-decoration: none;
-  color: rgb(254, 254, 254);
+  color: white;
   font-family: Gill Sans, sans-serif;
   padding: 10px;
 }
