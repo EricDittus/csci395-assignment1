@@ -1,17 +1,32 @@
-
-
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: black;
+  background-color: rgb(102, 0, 245);
   text-align: center;
 }
 
-a {
+p {
   text-decoration: none;
-  color: green;
-  background-color: orange;
+  color: rgb(254, 254, 254);
+  font-family: Gill Sans, sans-serif;
   padding: 10px;
 }
+
+div {
+  padding: 20px;
+
+}
+
+a:link, a:visited {
+ 
+  color: white;
+  font-size: 25px;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+}
+
+
 
 img {
   display: block;
@@ -24,4 +39,3 @@ img {
 .link {
   margin: 20px;
 }
-
