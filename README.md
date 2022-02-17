@@ -1,8 +1,8 @@
 # csci395-assignment1
 Group members:
-Eric Dittus
+Eric Dittus @ericdittus\
 Christopher Sostre
-Diana Luna
-Perla Escano Estrella
+Diana Luna @dianaluna01\ 
+Perla Escano Estrella @perlaescano\
 
 https://ericdittus.github.io/csci395-assignment1/
