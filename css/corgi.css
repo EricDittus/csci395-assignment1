@@ -5,12 +5,13 @@ body {
 }
 
 p {
-    text-decoration: none;
-    color: white;
-    background-color: black;
-    padding: 10px;
-}
 
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  padding: 10px;
+
+}
 img {
   display: block;
   margin-left: auto;
